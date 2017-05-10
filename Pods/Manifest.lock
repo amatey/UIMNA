@@ -1,0 +1,74 @@
+PODS:
+  - Bolts (1.8.4):
+    - Bolts/AppLinks (= 1.8.4)
+    - Bolts/Tasks (= 1.8.4)
+  - Bolts/AppLinks (1.8.4):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.8.4)
+  - FLAnimatedImage (1.0.12)
+  - Flurry-iOS-SDK/FlurrySDK (7.8.2)
+  - JSQMessagesViewController (7.3.4):
+    - JSQSystemSoundPlayer (~> 2.0.1)
+  - JSQSystemSoundPlayer (2.0.1)
+  - libextobjc/EXTKeyPathCoding (0.4.1):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTScope (0.4.1):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/RuntimeExtensions (0.4.1)
+  - MPGNotification (1.2.4)
+  - NYTPhotoViewer (1.1.0):
+    - NYTPhotoViewer/AnimatedGifSupport (= 1.1.0)
+    - NYTPhotoViewer/Core (= 1.1.0)
+  - NYTPhotoViewer/AnimatedGifSupport (1.1.0):
+    - FLAnimatedImage (~> 1.0.8)
+    - NYTPhotoViewer/Core
+  - NYTPhotoViewer/Core (1.1.0)
+  - QMServices (0.4.5):
+    - Bolts (>= 1.5.0)
+    - QuickBlox (>= 2.6.5)
+  - QuickBlox (2.9)
+  - Reachability (3.2)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SSKeychain (1.2.3)
+  - SVProgressHUD (1.1.3)
+  - TTTAttributedLabel (2.0.0)
+  - UIDevice-Hardware (0.1.8)
+
+DEPENDENCIES:
+  - Flurry-iOS-SDK/FlurrySDK
+  - JSQMessagesViewController
+  - libextobjc/EXTKeyPathCoding (~> 0.4.1)
+  - libextobjc/EXTScope (~> 0.4.1)
+  - MPGNotification (~> 1.2)
+  - NYTPhotoViewer (~> 1.1.0)
+  - QMServices
+  - Reachability (~> 3.2)
+  - SDWebImage (~> 3.6)
+  - SSKeychain (~> 1.2.2)
+  - SVProgressHUD (~> 1.0)
+  - TTTAttributedLabel (~> 2.0)
+  - UIDevice-Hardware (~> 0.1.3)
+
+SPEC CHECKSUMS:
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
+  Flurry-iOS-SDK: 8ed76252016d0162a893363c108a010ab97d424c
+  JSQMessagesViewController: 39fed975e3c9f8eba7292071e29eeb541d105e66
+  JSQSystemSoundPlayer: c5850e77a4363ffd374cd851154b9af93264ed8d
+  libextobjc: a650fc1bf489a3d3a9bc2e621efa3e1006fc5471
+  MPGNotification: f0e3924087afa9b3eccd5ce624e03965ae31ae61
+  NYTPhotoViewer: e80e8767f3780d2df37c6f72cbab15d6c7232911
+  QMServices: 617057b228eb5e41341e50216fc4af2fce3cfa46
+  QuickBlox: 4e071921a5fb4b0ecde1f66c7ce04a70ededc90c
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SSKeychain: 3f42991739c6c60a9cf1bbd4dff6c0d3694bcf3d
+  SVProgressHUD: 748080e4f36e603f6c02aec292664239df5279c1
+  TTTAttributedLabel: 8cffe8e127e4e82ff3af1e5386d4cd0ad000b656
+  UIDevice-Hardware: ecb52d9a7b223b31f81982358e2b0769ac1a7918
+
+PODFILE CHECKSUM: 1e070d9f17f47212abf7b8b96b8b291df06d7f9b
+
+COCOAPODS: 1.0.0
